@@ -1,0 +1,5 @@
+=>Entraîner un classifieur de tweets en opinions (opinion positive/opinion négative = sentiment analysis)
+
+-idée d'utiliser un dataset déjà constitué pour entraîner notre modèle (=> comme ça, pas besoin d'annoter!)
+-bonne idée serait ensuite de tester le modèle sur nos propres jeux de test (pourquoi pas 3 jeux de test sur 3 sujets différents pour voir les performances du modèle, càd s'il a été entraîné sur des données suffisamment hétérogènes pour pouvoir être général)
+
